@@ -1,0 +1,8 @@
+name: dns-baseline
+title: Inspects DNS baseline
+maintainer: The Authors
+copyright: The Authors
+copyright_email: you@example.com
+license: Apache-2.0
+summary: Checks if DNS profiles are in a list.
+version: 0.1.0
