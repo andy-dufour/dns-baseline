@@ -1,3 +1,3 @@
 describe command('cat /etc/resolv.conf | grep nameserver') do
-  its('stdout') { should eq "nameserver 1.2.3.4\nnameserver 5.6.7.8\n" }
+  its('stdout') { should eq "nameserver 127.0.0.53\n" }
 end
